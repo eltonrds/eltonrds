@@ -13,7 +13,6 @@
 💬 Pergunte-me sobre **React e Angular**
 </div>
   
-
 <h3 align="left">Conecte-se comigo:</h3>
 
 <p align="left">
@@ -77,8 +76,8 @@
 </div>
 </p>
 
-<br>
-<p align="left">&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonrds&show_icons=true&locale=en" alt="eltonrds" />
-</p>
+![eltonrds GitHub stats](https://github-readme-stats.vercel.app/api?username=eltonrds&show_icons=true&theme=radical)
+
+
+
 
