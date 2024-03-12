@@ -80,7 +80,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [eltonrds/snk](https://github.com/Platane/snk)_
+_generated with [eltonrds/snk](https://github.com/eltonrds/snk)_
 
 
 
