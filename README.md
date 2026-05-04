@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=500&size=36&duration=3000&pause=500&color=DEDEDE&width=870&height=70&lines=Ol%C3%A1%2C👋+me+chamo+Elton!+;Seja+bem+vindo+ao+meu+perfil+GitHub!%F0%9F%91%8B" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=500&size=36&duration=3000&pause=500&color=DEDEDE&width=870&height=70&lines=Ol%C3%A1%2C👋+me+chamo+Elton!+;Seja+bem+vindo+ao+meu+perfil+GitHub!%F0%9F%91%8B" alt=""/>
 
 <h2 align="center">👨‍💻 Web Developer no Brasil</h2>
 
@@ -53,7 +53,7 @@
 <div align="center" >
     <h3>🥇 Certificações:</h3>
     <a href="https://www.credly.com/badges/cdc0b0df-2456-4e54-bb1f-8d34d538782d/public_url" target="blank">
-        <img width="15%" height="15%"  src="https://images.credly.com/size/110x110/images/61dcfaa2-99a0-4e36-909e-04b56dcbcfc2/image.png"/>
+        <img width="15%" height="15%"  src="https://images.credly.com/size/340x340/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob"/>
     </a>
 </div>
 
