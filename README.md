@@ -1,7 +1,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=500&size=36&duration=3000&pause=500&color=DEDEDE&width=870&height=70&lines=Ol%C3%A1%2C👋+me+chamo+Elton!+;Seja+bem+vindo+ao+meu+perfil+GitHub!%F0%9F%91%8B" alt=""/>
 
-<h2 align="center">👨‍💻 Web Developer no Brasil</h2>
+<h2 align="center">👨‍💻 Back end Developer no Brasil</h2>
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=eltonrds&label=Profile%20views&color=0c527e&style=flat-square" alt="eltonrds" /> 
